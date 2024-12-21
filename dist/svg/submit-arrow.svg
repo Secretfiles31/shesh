@@ -1,0 +1,8 @@
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 64 64" enable-background="new 0 0 64 64" xml:space="preserve" width="64px" height="64px">
+    <g id="SVGRepo_bgCarrier" stroke-width="0"></g>
+    <g id="SVGRepo_tracerCarrier" stroke-linecap="round" stroke-linejoin="round"></g>
+    <g id="SVGRepo_iconCarrier"> 
+        <path d="M32,2C15.432,2,2,15.432,2,32s13.432,30,30,30s30-13.432,30-30S48.568,2,32,2z M32,56C17.641,56,6,44.359,6,30S17.641,4,32,4s26,11.641,26,26S46.359,56,32,56z" fill="#333333"></path> 
+        <polygon fill="#333333" points="26,48 24,46 40,32 24,18 26,16 44,32 "></polygon> 
+    </g>
+</svg>
